@@ -1,3 +1,4 @@
+```python
 a=[1,4,3,2,6,9]
 c=[]
 
@@ -10,3 +11,4 @@ while len(a)>0:
     a.remove(b)
     
 print(c)
+```
