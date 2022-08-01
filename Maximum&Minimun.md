@@ -7,7 +7,7 @@ for i in range(len(a)):
         b=a[i]
 print(b)
 ```
-
+---
 ## Minimum
 ```python
 a=[1,4,3,2,6,9]
